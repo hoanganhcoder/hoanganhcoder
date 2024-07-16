@@ -1,13 +1,20 @@
 ![Header](<src/Screenshot 2024-07-15 213825.png>)
-<h1 align="center">Hi, I'm Hoang Anh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/hoanganhcoder?label=Follow&style=social)](https://github.com/hoanganhcoder/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoanganhfreelancer@gmail.com)](mailto:hoanganhfreelancer@gmail.com)
 ---
 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi my Love, I'm [Hoang Anh](https://hoanganhcoder.github.io) 
 
-### Hello! I am a programmer from Vietnam 🇻🇳 love programming, learning new technologies and working on interesting projects.
+Hello! I am a programmer from Vietnam 🇻🇳 love programming, learning new technologies and working on interesting projects.
 
+### 🎓 My Research Interests
+- ⚡ **Performance and Speed**: Optimizing systems and code for maximum efficiency.
+- 🌐 **Web3 Technology**: Exploring the decentralized web and its applications.
+- 🤖 **Automation**: Developing automated solutions to improve workflows and productivity.
+- 🎨 **Interface Design**: Crafting intuitive and user-friendly interfaces.
+- 💰 **Crypto**: Investigating cryptocurrencies and blockchain technology.
 
 ###
 
