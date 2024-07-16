@@ -1,17 +1,32 @@
-<h2 align="left">Hi 👋! Hoàng Anh nè !</h2>
+![Header](<src/Screenshot 2024-07-15 213825.png>)
+<h1 align="center">Hi, I'm Hoang Anh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+
+[![GitHub followers](https://img.shields.io/github/followers/hoanganhcoder?label=Follow&style=social)](https://github.com/hoanganhcoder/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoanganhfreelancer@gmail.com)](mailto:hoanganhfreelancer@gmail.com)
+---
+
+
+### Hello! I am a programmer from Vietnam 🇻🇳 love programming, learning new technologies and working on interesting projects.
+
 
 ###
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
+
 </div>
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanganhcoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanganhcoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoanganhcoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanganhcoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
+  
 </div>
+
+
 
 ###
 
