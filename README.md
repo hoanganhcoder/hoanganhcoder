@@ -48,7 +48,6 @@ Hello! I am a programmer from Vietnam 🇻🇳 love programming, learning new te
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
