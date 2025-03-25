@@ -19,7 +19,6 @@ Hello! I am a programmer from Vietnam 🇻🇳 love programming, learning new te
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
   <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
 
 </div>
